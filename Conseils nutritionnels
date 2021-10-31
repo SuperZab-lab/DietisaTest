@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head><title>Ma Page de diététique </title>
+<style> table,th,td {border: 2px solid black;}</style>	
+</head>
+<body style="background-color: wheat">
+<h1 style="font-family: cursive;font-size: 80px; color:rgb(139,0,0)"> Conseils nutritionnels </h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Berries_in_Berlin.jpg/220px-Berries_in_Berlin.jpg" width="300" height="300">
+<p> Les aliments fournissent à l'organisme l'énergie nécessaire à son fonctionnement. Ils apportent des glucides, des lipides et des protéines. Ils apportent aussi des micronutriments : vitamines, minéraux et oligo-éléments. Quant à l'eau, elle est bien sûre indispensable, notre organisme étant composé d'eau à 70%.
+Pour plus d'informations rendez vous sur mon site consacré à la <a href="https://www.nutrition-diet-etique.fr">nutrition</a>.
+</p>
+<IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fruit_Stall_in_Barcelona_Market.jpg/220px-Fruit_Stall_in_Barcelona_Market.jpg" width="300" height="300">
+<ul>
+    <li>Pour être équilibrée la ration alimentaire doit être composée à environ 12 à 15% de protides (ou protéines), à 30 à 35% de lipides et à 50-55% de glucides. </li>
+    <li>Les apports nutritionnels doivent être adaptés à l'âge de la personne et doivent couvrir les dépenses énergétiques. </li>
+    <li>Si les micronutriments n'apportent pas d'énergie à l'organisme ils n'en demeurent pas moins indispensables à son fonctionnement. </li>
+    <li>Un gramme de lipides apporte 9 Kcal alors qu'un gramme de glucides ou de protéines n'apporte que 4 Kcal.</li>
+</ul>
+
+<h1>Valeur énergétique des nutriments </h1>
+    <table style="border: 2px solid black">
+     <tr style="background-color: yellow">
+         <th>Nutriment</th>
+            <th>Valeur énergétique en kJ</th>
+            <th>Valeur énergétique en kCal</th>
+        </tr>
+        <tr>
+         <td>Glucides</td>
+            <td>17</td>
+            <td>4</td>
+        </tr>
+        <tr>
+         <td>Lipides</td>
+            <td>38</td>
+            <td>9 </td>
+        </tr>
+        <tr>
+         <td>Protéines</td>
+            <td>17</td>
+            <td>4</td>
+        </tr>
+        
+ </table>
+</body>
+</html>
